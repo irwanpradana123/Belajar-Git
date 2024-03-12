@@ -1,0 +1,5 @@
+Halo wan, salam kenal nama saya ragakadir dari samarinda
+
+Resolusi Saya : 
+- Membuat website menggunakan framework Laravel
+- Bekerja di Start-up
